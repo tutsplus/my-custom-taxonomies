@@ -13,11 +13,14 @@ Demonstrates how to create custom taxonomies using the WordPress API. Showcases 
 
 ## Installation
 
-1. Download my-custom-taxonomies-master.zip from GitHub'
+1. Download `my-custom-taxonomies-master.zip` from GitHub
 2. Install the plugin through the 'Add New Plugin' menu in WordPress
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ### Changelog
+
+#### 1.0.1
+* Fixing a minor typo in `README.md`
 
 #### 1.0
 * Initial release
